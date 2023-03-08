@@ -6,18 +6,31 @@ Trong thực tế mỗi người sẽ có nhiều hơn 1 SDT ( tối đa 3 SDT/n
 Danh bạ điện thoại để cho đơn giản sẽ lưu trữ bằng file text dưới format sau
 
 3
+
 Anh
+
 Img:
+
 T1:012356789
+
 T2:022346789
+
 Dung Huy
+
 Img: data/dat1/person/img1.jpg
+
 T1:012346789
+
 E1:dung@dept.com.vn
+
 Thuan Hoang
+
 Img:
+
 T1:040449444
+
 E1:thuan12@gmail.com
+
 E2:thuan233@soict.edu.vn
 
 Trong đó 3 là số lượng contact và T1, E1 lần lượt là thông tin SDT và email
